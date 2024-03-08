@@ -26,7 +26,8 @@ This is the repository for frontend code.
     -- In right you can view all the respective html form of it
   2) You can either Upload the Json form structure you have created and it will generate dynamic form for you
   3) Json structure to be followed
-  4) 
+  4)
+  ```json 
 [
   {
     "id": "name",
@@ -97,6 +98,7 @@ This is the repository for frontend code.
     }
   }
 ]
+```
 
 **Happy Coding!** ✨
 
